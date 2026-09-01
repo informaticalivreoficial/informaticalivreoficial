@@ -176,19 +176,6 @@ Tecnologia está em constante evolução. Por isso, estou sempre explorando nova
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img
- src="https://raw.githubusercontent.com/informaticalivreoficial/informaticalivreoficial/output/github-contribution-grid-snake.svg"
- alt="Snake animation"
-/>
-
-</p>
-
----
-
 <p align="center">
 
 <strong>🚀 Sempre aprendendo, construindo e transformando ideias em soluções digitais.</strong>
