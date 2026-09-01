@@ -133,7 +133,7 @@ Infrastructure
 
 <p align="left">
   <img
-    src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=true"
+    src="https://streak-stats.demolab.com?user=informaticalivreoficial&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -144,7 +144,7 @@ Infrastructure
 
 <p align="left">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=informaticalivreoficial&hide_border=true"
     alt="Gráfico de atividade do GitHub"
   />
 </p>
