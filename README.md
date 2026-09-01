@@ -115,13 +115,13 @@ Infrastructure
 <p align="left">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=informaticalivreoficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
     alt="Estatísticas do GitHub"
   />
 
 <img
  height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&hide_border=true"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=informaticalivreoficial&layout=compact&langs_count=8&hide_border=true"
  alt="Linguagens mais utilizadas"
 />
 
