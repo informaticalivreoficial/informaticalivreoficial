@@ -110,53 +110,12 @@ Infrastructure
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=informaticalivreoficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=informaticalivreoficial&layout=compact&langs_count=8&hide_border=true"
- alt="Linguagens mais utilizadas"
-/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="left">
   <img
     src="https://streak-stats.demolab.com?user=informaticalivreoficial&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=informaticalivreoficial&hide_border=true"
-    alt="Gráfico de atividade do GitHub"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=informaticalivreoficial&theme=flat&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
   />
 </p>
 
